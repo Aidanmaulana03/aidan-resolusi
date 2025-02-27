@@ -2,7 +2,10 @@ rencana konten aidan
 - javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - struktur data dasar
 - php framework
+  ^ Laravel
 - interview
 - vlog
+- python
