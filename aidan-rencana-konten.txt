@@ -1,0 +1,7 @@
+rencana konten aidan
+- javascript
+  * ES6
+  * Framework Javascript
+- php framework
+- interview
+- vlog
