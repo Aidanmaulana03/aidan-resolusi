@@ -1,0 +1,5 @@
+rencana konten aidan
+- java script
+- php framework
+- interview
+- vlog
